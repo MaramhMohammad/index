@@ -1,0 +1,7 @@
+body {background-color: #ECFCBB;}
+nav { text-align: center;}                
+nav li { display:inline-block;   font-size: 20px; padding: 20px;}
+nav {border: 2px solid black; outline: #4CAF50 solid 10px; margin: auto; padding: 20px; text-align: center; }
+
+footer { text-align: center;}                
+footer { display:inline-block;   font-size: 20px; padding: 20px;}
